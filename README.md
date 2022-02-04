@@ -1,1 +1,3 @@
 # CHL-Havoc
+ Here we go...
+ let's learn git from the begining..
